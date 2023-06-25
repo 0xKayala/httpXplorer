@@ -84,6 +84,8 @@ Make sure you have the following prerequisites installed:
 
    ```shell
    flask run
+   or,
+   python app.py  (not recommended)
    ```
 
 8. **Access the Application**: Open your web browser and visit `http://localhost:5000` to access the httpXplorer application.
@@ -97,7 +99,7 @@ Once the httpXplorer application is running, you
 1. **Upload URLs**: Use the file upload form on the home page to upload a JSON file containing URLs and their associated data.
 2. **Analyze Status Codes**: Analyze the status codes of the URLs to identify errors, redirects, and successful responses.
 3. **Sort URLs**: Sort the URLs based on their status codes in ascending or descending order for better organization and analysis.
-4. **Manipulate Data**: Easily manipulate and update the status codes, technologies, CDN names, and hosts of the URLs to reflect changes or corrections.
+4. **Data Update**: Easily update the latest data of the target. When upload latest json file, if any data (status codes, technologies, CDN names, and hosts) changes in the latest output file, the new data will be updated by replacing old data. 
 5. **Copy URLs**: Copy a range of URLs by specifying the start and end index, facilitating sharing or exporting of specific sets of URLs.
 6. **Search and Filter**: Use the search functionality or apply filters to quickly find specific URLs or narrow down the displayed results.
 
@@ -109,7 +111,6 @@ If you encounter any issues during the installation or usage of the httpXplorer 
 
 2. **Open a New Issue**: If the issue persists or you have identified a new problem, open a new issue on the project's GitHub repository. Provide detailed information about the problem, including any error messages encountered.
 
-3. **Seek Support**: Seek support from the project maintainers by contacting them via the contact details provided in the project's documentation or on the GitHub repository.
 
 ## License
 
@@ -117,4 +118,3 @@ The httpXplorer project is licensed under the [MIT License](LICENSE). You are fr
 
 ```
 
-You can copy and paste this enhanced Markdown documentation into your project's README.md file on GitHub. It provides a clear and concise overview of the httpXplorer application, its features, installation steps, usage instructions, troubleshooting guidance, and license information.
