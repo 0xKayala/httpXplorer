@@ -116,5 +116,3 @@ If you encounter any issues during the installation or usage of the httpXplorer 
 
 The httpXplorer project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the application as per the terms of the license.
 
-```
-
