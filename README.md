@@ -88,7 +88,7 @@ Make sure you have the following prerequisites installed:
    python app.py  (not recommended)
    ```
 
-8. **Access the Application**: Open your web browser and visit `http://localhost:5000` to access the httpXplorer application.
+8. **Access the Application**: Open your web browser and visit [http://localhost:5000](http://localhost:5000) to access the httpXplorer application.
 
 ## Usage
 
