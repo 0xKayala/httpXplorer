@@ -1,7 +1,9 @@
 # httpXplorer
 ### httpXplorer is a powerful web-based application specifically designed for efficient URL management and analysis of the results obtained from projectdiscovery's httpx tools. It allows users to easily upload the httpx JSON output file containing URLs, analyze their status codes, web technologies, and explore other relevant information. With httpXplorer, you can sort the URLs based on their status codes, making it convenient to prioritize and focus on specific areas of interest.
 ### Whether you're a penetration tester or bug hunter, httpXplorer provides valuable insights into your target URLs, helping you identify potential issues and optimize your workflow. The user-friendly interface and intuitive features of httpXplorer enable seamless organization, sorting, and extraction of information from your URL data. Whether you have a large collection of URLs or need to make informed decisions based on the data, httpXplorer simplifies the process and enhances your productivity and you'll get comprehensive understanding of your target.
-
+##
+![Alt Text](images/Screenshot%20(444).png)
+##
 ### With httpXplorer, you have a centralized platform to manage and analyze your URL data, saving you time and effort. The application's powerful features and intuitive interface make it easy for both beginners and experienced professionals to navigate and extract valuable insights from their URL datasets. Whether you are performing security assessments, bug hunting, or optimizing web applications, httpXplorer is your go-to tool for efficient URL management and analysis.
 
 ### Take your URL analysis to the next level with httpXplorer and unlock the full potential of your projectdiscovery's httpx tools results. Simplify your workflow, enhance your decision-making process, and stay ahead in the world of web application testing and security. Try httpXplorer today and experience the convenience, efficiency, and effectiveness it brings to your URL management and analysis tasks.
