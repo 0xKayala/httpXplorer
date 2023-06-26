@@ -105,6 +105,8 @@ Once the httpXplorer application is running, you
 5. **Copy URLs**: Copy a range of URLs by specifying the start and end index, facilitating sharing or exporting of specific sets of URLs.
 6. **Search and Filter**: Use the search functionality or apply filters to quickly find specific URLs or narrow down the displayed results.
 
+### Read the detailed write-up: [https://medium.com/@rootintrud3r/introducing-httpxplorer-simplifying-httpx-url-management-and-analysis-56cfd7527bff](https://medium.com/@rootintrud3r/introducing-httpxplorer-simplifying-httpx-url-management-and-analysis-56cfd7527bff)
+
 ## Troubleshooting
 
 If you encounter any issues during the installation or usage of the httpXplorer application, please follow these steps:
@@ -117,4 +119,9 @@ If you encounter any issues during the installation or usage of the httpXplorer 
 ## License
 
 The httpXplorer project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the application as per the terms of the license.
+#
 
+## If you enjoyed the content and would like to stay updated, consider following me on Twitter and LinkedIn.
+# [https://twitter.com/root_intrud3r](https://twitter.com/root_intrud3r)
+# [https://www.linkedin.com/in/abid10/](https://www.linkedin.com/in/abid10/)
+## I regularly share interesting updates, articles, and announcements related to my work. Stay connected with me for more exciting content!
